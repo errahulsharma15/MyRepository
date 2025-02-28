@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("My first program");
+             Console.WriteLine("My first program");
             Console.ReadLine();
         }
     }
